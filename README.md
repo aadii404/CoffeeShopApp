@@ -6,14 +6,20 @@ Developed as a learning project by following the Neat Roots YouTube tutorial.
 
 ## 📱 Screenshots
 
+### Welcome Screen
+![Home Screen](screenshots/welcomescreen.png)
+
 ### Home Screen
 ![Home Screen](screenshots/home.png)
+
+### Product Detail Screen
+![Home Screen](screenshots/productdetails.png)
 
 ### Cart Screen
 ![Cart Screen](screenshots/cart.png)
 
 ### Wishlist Screen
-![Wishlist Screen](screenshots/wishlist.png)
+![Wishlist Screen](screenshots/favourite.png)
 
 ### Profile Screen
 ![Profile Screen](screenshots/profile.png)
