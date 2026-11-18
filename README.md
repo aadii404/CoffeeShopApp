@@ -6,9 +6,6 @@ Developed as a learning project by following the Neat Roots YouTube tutorial.
 
 ## 📱 Screenshots
 
-
-## 📱 Screenshots
-
 <table>
   <tr>
     <td align="center">
