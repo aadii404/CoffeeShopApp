@@ -6,23 +6,39 @@ Developed as a learning project by following the Neat Roots YouTube tutorial.
 
 ## 📱 Screenshots
 
-### Welcome Screen
-![Home Screen](screenshots/welcomescreen.png)
 
-### Home Screen
-![Home Screen](screenshots/home.png)
+## 📱 Screenshots
 
-### Product Detail Screen
-![Home Screen](screenshots/productdetails.png)
-
-### Cart Screen
-![Cart Screen](screenshots/cart.png)
-
-### Wishlist Screen
-![Wishlist Screen](screenshots/favourite.png)
-
-### Profile Screen
-![Profile Screen](screenshots/profile.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>Welcome</b><br/>
+      <img src="screenshots/welcomescreen.png" width="180"/>
+    </td>
+    <td align="center">
+      <b>Home</b><br/>
+      <img src="screenshots/home.png" width="180"/>
+    </td>
+    <td align="center">
+      <b>Product Details</b><br/>
+      <img src="screenshots/productdetails.png" width="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Cart</b><br/>
+      <img src="screenshots/cart.png" width="180"/>
+    </td>
+    <td align="center">
+      <b>Wishlist</b><br/>
+      <img src="screenshots/favourite.png" width="180"/>
+    </td>
+    <td align="center">
+      <b>Profile</b><br/>
+      <img src="screenshots/profile.png" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 - Home Screen
